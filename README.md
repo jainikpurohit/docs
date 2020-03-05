@@ -1,7 +1,7 @@
 # AWS
   ### SNS
 
-Usefeul Links:
+Useful Links:
 
 * https://dev.to/frosnerd/event-handling-in-aws-using-sns-sqs-and-lambda-2ng
   > Architecture description with example on how SNS, SQS, Lambda and S3 notifiacation can be used together
