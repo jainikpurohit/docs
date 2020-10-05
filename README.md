@@ -9,3 +9,6 @@ Useful Links:
 * https://www.helenanderson.co.nz/sns-sqs/ 
   
   > Explanation on difference between SNS & SQS and their objectives.
+
+# Cool Resources 
+  * Ascii Conversion: https://ascii.today/
